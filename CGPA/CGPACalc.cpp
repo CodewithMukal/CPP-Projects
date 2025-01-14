@@ -47,4 +47,5 @@ int main()
     cout << "Credits: ";
     printarr(creditsarr, n);
     cout << "\nYour calculated CGPA is " << fixed << setprecision(2) << CG(marksarr, creditsarr, n)<<".";
+    return 0;
 }
