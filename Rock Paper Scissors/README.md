@@ -21,3 +21,6 @@ Scissors beats Paper
     - Same choice draws and no points are added
 
     -  loses to computers choice then game resets
+
+
+## PYTHON CODE: [Click Here](https://github.com/CodewithMukal/Python-Projects/tree/main/Snake%20Water%20Gun%20Game)
